@@ -45,3 +45,4 @@ Ved hjælp af JavaScript skal du lave en webside, der fortæller om en butik har
 Din markup skal være semantisk, som i eksemplet fra HTML-brushup.
 
 Kan man tilføje en CSS-animation ved hjælp af den kode, som Duckett viser? Hvad kunne man gøre i CSS og JavaScript ved H3 for at starte en animation, der er defineret i dit CSS?
+fuck yeah
